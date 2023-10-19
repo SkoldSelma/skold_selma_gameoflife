@@ -10,3 +10,6 @@ vet ej ifall du har pico8 men förhoppningsvis kan du iaf starta spelet. det är
 
 
 ![gameoflife2](https://github.com/SkoldSelma/skold_selma_gameoflife/assets/124393281/29d5ec11-2828-4c91-b273-81fc92c87fec)
+
+![GameOfLife](https://github.com/SkoldSelma/skold_selma_gameoflife/assets/124393281/16ec380d-6155-40a3-b033-7f658e721b59)
+
